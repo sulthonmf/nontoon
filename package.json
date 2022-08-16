@@ -15,7 +15,7 @@
         "@inertiajs/inertia": "^0.11.0",
         "@inertiajs/inertia-react": "^0.8.0",
         "@inertiajs/progress": "^0.2.6",
-        "@pmmmwh/react-refresh-webpack-plugin": "^0.5.0-rc.0",
+        "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
         "@tailwindcss/forms": "^0.4.0",
         "@vitejs/plugin-react": "^1.3.2",
         "alpinejs": "^3.4.2",
@@ -25,8 +25,13 @@
         "laravel-vite-plugin": "^0.5.3",
         "lodash": "^4.17.19",
         "postcss": "^8.4.6",
+        "postcss-import": "^14.1.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
+        "react-refresh": "^0.14.0",
         "tailwindcss": "^3.0.18"
+    },
+    "dependencies": {
+        "prop-types": "^15.8.1"
     }
 }
